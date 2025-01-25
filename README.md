@@ -3,10 +3,6 @@
 
 I’m Bridget, a Healthcare Data Analyst currently pursuing a degree in Pharmacy. I’m passionate about combining my knowledge of pharmacy with data analytics to improve patient care, optimize healthcare systems, and support evidence-based decisions in the medical field.
 
-### About This Repository
-
-In this repository, I share my work on healthcare data analysis, predictive modeling, and clinical insights. My projects explore a wide range of topics, including patient data analysis, drug efficacy, health outcomes, and healthcare system improvements. I believe in the power of data to drive better healthcare solutions, and I’m excited to contribute to this field through my work.
-
 ### My Background
 
 While I’m working toward my degree in Pharmacy, I’ve developed a strong interest in the role that data analytics plays in healthcare. My goal is to bridge the gap between clinical knowledge and data-driven insights, helping to improve patient outcomes and streamline healthcare processes.
