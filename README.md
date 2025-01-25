@@ -35,9 +35,9 @@ Link to the project/repository
 I’m always open to new ideas, feedback, or collaborations. Feel free to:
 
 ### Open an issue or pull request
-Reach out through [email or other contact info]
+Reach out through: bridget.onyeije@gmail.com
 
-Connect on [social media platforms like LinkedIn, Twitter, etc.]
+Connect on: 
 
 ### Thanks for stopping by, and I look forward to collaborating with you! 🚀
 
