@@ -1,5 +1,6 @@
-# Hi there 👋
+https://www.canva.com/design/DAGSnxQkL6Y/7D2thVU7KwxkQTlVJP6Ylw/edit
 
+# Hi there 👋
 
 I’m Bridget, a Healthcare Data Analyst currently pursuing a degree in Pharmacy. I’m passionate about combining my knowledge of pharmacy with data analytics to improve patient care, optimize healthcare systems, and support evidence-based decisions in the medical field.
 
