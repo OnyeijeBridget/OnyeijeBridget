@@ -15,10 +15,10 @@ While I’m working toward my degree in Pharmacy, I’ve developed a strong inte
 
 Here’s what I focus on:
 
-Analyzing healthcare and patient data to uncover insights
-Predictive modeling for treatment outcomes and drug efficacy
-Data visualization to communicate healthcare trends and findings
-Statistical analysis for healthcare studies and clinical trials
+1)Analyzing healthcare and patient data to uncover insights
+2)Predictive modeling for treatment outcomes and drug efficacy
+3)Data visualization to communicate healthcare trends and findings
+
 
 Here are a few of my key projects:
 
