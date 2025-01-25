@@ -5,7 +5,7 @@ I’m Bridget, a Healthcare Data Analyst currently pursuing a degree in Pharmacy
 
 ### My Background
 
-While I’m working toward my degree in Pharmacy, I’ve developed a strong interest in the role that data analytics plays in healthcare. My goal is to bridge the gap between clinical knowledge and data-driven insights, helping to improve patient outcomes and streamline healthcare processes.
+While working towards my degree in Pharmacy, I’ve developed a strong interest in the role that data analytics plays in healthcare. My goal is to bridge the gap between clinical knowledge and data-driven insights, helping to improve patient outcomes and streamline healthcare processes.
 
 ### Here’s what I focus on:
 
