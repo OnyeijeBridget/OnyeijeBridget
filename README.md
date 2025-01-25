@@ -37,7 +37,7 @@ I’m always open to new ideas, feedback, or collaborations. Feel free to:
 ### Open an issue or pull request
 Reach out through: bridget.onyeije@gmail.com
 
-Connect on: 
+Connect on: https://www.linkedin.com/in/bridgetonyeije
 
 ### Thanks for stopping by, and I look forward to collaborating with you! 🚀
 
