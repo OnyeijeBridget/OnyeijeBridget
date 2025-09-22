@@ -50,8 +50,6 @@ I’m always open to new ideas, feedback, or collaborations. Feel free to:
 
 **🔗 LinkedIn:** linkedin.com/in/bridgetonyeije
 
-💻 GitHub Portfolio: [Your GitHub profile link here]
-
 
 ### Thanks for stopping by, and I look forward to collaborating with you! 🚀
 
