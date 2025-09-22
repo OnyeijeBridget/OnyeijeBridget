@@ -1,43 +1,57 @@
 # Hi there 👋
 
-I’m Bridget, a Healthcare Data Analyst currently pursuing a degree in Pharmacy. I’m passionate about combining my knowledge of pharmacy with data analytics to improve patient care, optimize healthcare systems, and support evidence-based decisions in the medical field.
+I’m Bridget, a **Healthcare Data Analyst** currently pursuing a **Doctor of Pharmacy (Pharm D) degree**. I’m passionate about combining my pharmacy background with analytics to improve patient care, support evidence-based decisions, and drive smarter healthcare systems.
 
 ### My Background
 
-While working towards my degree in Pharmacy, I’ve developed a strong interest in the role that data analytics plays in healthcare. My goal is to bridge the gap between clinical knowledge and data-driven insights, helping to improve patient outcomes and streamline healthcare processes.
+While completing my pharmacy degree, I discovered how powerful data can be in solving healthcare challenges. This led me to teach myself **Excel, Power BI, and SQL,** and apply them to real-world healthcare datasets.
+
+My goal is to bridge the gap between clinical knowledge and data-driven insights — turning raw numbers into stories that improve outcomes for patients, facilities, and healthcare leaders.
 
 ### Here’s what I focus on:
 
-1)Analyzing healthcare and patient data to uncover insights
+1) Analyzing healthcare data to uncover meaningful trends and insights.
 
-2)Predictive modeling for treatment outcomes and drug efficacy
+2) Building interactive dashboards that simplify complex datasets.
 
-3)Data visualization to communicate healthcare trends and findings
+3) Communicating findings visually to support decision-makinggs.
 
 ### Here are a few of my key projects:
 
-1)Predicting Drug Efficacy: A project where I used data to predict the effectiveness of various drugs on different patient populations.
+1) **CMS Nursing Home COVID-19 Dashboard:**
 
-Link to the project/repository
+    Analyzed U.S. nursing home COVID-19 cases, deaths, and vaccination rates
+    
+    Built an interactive Excel dashboard using PivotTables, Power Query, and DAX
+    
+    Link to repository
 
-2)Patient Risk Assessment: Analyzing patient data to identify those at higher risk for chronic diseases or complications.
+2) **Pharma Sales Analysis (Power BI):**
 
-Link to the project/repository
+    Created a Power BI dashboard to analyze pharmaceutical sales trends and performance metrics
+    
+    Showcased insights into revenue, product categories, and regional sales performance
+    
+    Link to repository
 
-3)Clinical Trial Data Analysis: A statistical analysis of clinical trial data to evaluate the safety and efficacy of new medications.
+3) **Medical Costs SQL Analysis:**
 
-Link to the project/repository
-
-### Feel free to explore these projects, dive into the code, and let me know if you have any questions or ideas for collaboration!
+    Conducted SQL-based exploratory data analysis on medical cost drivers
+    
+    Identified correlations between patient demographics, health factors, and charges
+    
+    Link to repository
 
 
 ## Let's Connect
 I’m always open to new ideas, feedback, or collaborations. Feel free to:
 
-### Open an issue or pull request
-Reach out through: bridget.onyeije@gmail.com
+**📧 Email:** bridget.onyeije@gmail.com
 
-Connect on: https://www.linkedin.com/in/bridgetonyeije
+**🔗 LinkedIn:** linkedin.com/in/bridgetonyeije
+
+💻 GitHub Portfolio: [Your GitHub profile link here]
+
 
 ### Thanks for stopping by, and I look forward to collaborating with you! 🚀
 
