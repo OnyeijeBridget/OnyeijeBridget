@@ -24,7 +24,7 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
     
     Built an interactive Excel dashboard using PivotTables, Power Query, and DAX
     
-    [View Project]https://github.com/OnyeijeBridget/CMS-NursingHome-COVID-19-Dashboard
+    [View Project] (https://github.com/OnyeijeBridget/CMS-NursingHome-COVID-19-Dashboard)
 
 2) **Pharma Sales Analysis (Power BI):**
 
