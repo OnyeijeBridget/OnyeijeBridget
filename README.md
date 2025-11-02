@@ -40,7 +40,7 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
     
     - Identified correlations between patient demographics, health factors, and charges.
     
-    Link to repository
+    [View Project](https://github.com/OnyeijeBridget/SQL-MEDICAL-COST-EDA)
 
 
 ## Let's Connect
