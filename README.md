@@ -20,25 +20,25 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
 
 1) **CMS Nursing Home COVID-19 Dashboard:**
 
-    Analyzed U.S. nursing home COVID-19 cases, deaths, and vaccination rates
+    - Analyzed U.S. nursing home COVID-19 cases, deaths, and vaccination rates
     
-    Built an interactive Excel dashboard using PivotTables, Power Query, and DAX
+    - Built an interactive Excel dashboard using PivotTables, Power Query, and DAX
     
-    [View Project] (https://github.com/OnyeijeBridget/CMS-NursingHome-COVID-19-Dashboard)
+    [View Project](https://github.com/OnyeijeBridget/CMS-NursingHome-COVID-19-Dashboard)
 
 2) **Pharma Sales Analysis (Power BI):**
 
-    Created a Power BI dashboard to analyze pharmaceutical sales trends and performance metrics
+    - Created a Power BI dashboard to analyze pharmaceutical sales trends and performance metrics
     
-    Showcased insights into revenue, product categories, and regional sales performance
+    - Showcased insights into revenue, product categories, and regional sales performance
     
    [View Project]
 
-3) **Medical Costs SQL Analysis:**
+3) **Exploratory Data Analysis (EDA) of Medical Costs Using MySQL:**
 
-    Conducted SQL-based exploratory data analysis on medical cost drivers
+    - Used SQL queries to identify what variable has the highest impact on medical cost incurred by patients. 
     
-    Identified correlations between patient demographics, health factors, and charges
+    - Identified correlations between patient demographics, health factors, and charges.
     
     Link to repository
 
@@ -46,9 +46,11 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
 ## Let's Connect
 I’m always open to new ideas, feedback, or collaborations. Feel free to:
 
-**📧 Email:** bridget.onyeije@gmail.com
+**📧 Email:** [Gmail](bridget.onyeije@gmail.com)
 
-**🔗 LinkedIn:** linkedin.com/in/bridgetonyeije
+**🔗 LinkedIn:** [Bridget Onyeije ](linkedin.com/in/bridgetonyeije)
+
+**Medium:** [Medium](https://medium.com/@bridget.onyeije)
 
 
 ### Thanks for stopping by, and I look forward to collaborating with you! 🚀
