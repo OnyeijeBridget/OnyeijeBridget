@@ -1,24 +1,26 @@
-# Hi there 👋
+### 👋 HI, 
 
 I’m Bridget, a **Healthcare Data Analyst** currently pursuing a **Doctor of Pharmacy (Pharm D) degree**. I’m passionate about combining my pharmacy background with analytics to improve patient care, support evidence-based decisions, and drive smarter healthcare systems.
 
-### My Background
+---
+## GET TO KNOW ME
 
-While completing my pharmacy degree, I discovered how powerful data can be in solving healthcare challenges. This led me to teach myself **Excel, Power BI, and SQL,** and apply them to real-world healthcare datasets.
+While completing my pharmacy degree, I discovered how powerful data can be in solving healthcare challenges. This began my journey into learning and teaching myself data analytics using **Excel, Power BI, and SQL,** and applying this knowledge to real-world healthcare datasets, to effect change.
 
 My goal is to bridge the gap between clinical knowledge and data-driven insights — turning raw numbers into stories that improve outcomes for patients, facilities, and healthcare leaders.
 
-### Here’s what I focus on:
+---
+## WHAT I DO AS A HEALTHCARE ANALYST:
 
-1) Analyzing healthcare data to uncover meaningful trends and insights.
+1) I analyze healthcare data to uncover meaningful trends and insights.
 
-2) Building interactive dashboards that simplify complex datasets.
+2) I build interactive dashboards that simplify complex datasets.
 
-3) Communicating findings visually to support decision-makinggs.
+3) I communicate my findings verbally and also with powerpoint presentations to stakeholders.
 
-### Here are a few of my key projects:
+### PROJECTS I HAVE WORKED ON:
 
-1) **CMS Nursing Home COVID-19 Dashboard:**
+1) ## CMS Nursing Home COVID-19 Analysis Using MS-Excel:
 
     - Analyzed U.S. nursing home COVID-19 cases, deaths, and vaccination rates
     
@@ -26,7 +28,7 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
     
     [View Project](https://github.com/OnyeijeBridget/CMS-NursingHome-COVID-19-Dashboard)
 
-2) **Pharma Sales Analysis (Power BI):**
+ 2) ## Pharma Sales Analysis Using Power BI:
 
     - Created a Power BI dashboard to analyze pharmaceutical sales trends and performance metrics
     
@@ -34,14 +36,14 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
     
    [View Project]
 
-3) **Exploratory Data Analysis (EDA) of Medical Costs Using MySQL:**
+ 3) ## Exploratory Data Analysis (EDA) of Medical Costs Using MySQL:
 
     - Used SQL queries to identify what variable has the highest impact on medical cost incurred by patients. 
     
     - Identified correlations between patient demographics, health factors, and charges.
     
     [View Project](https://github.com/OnyeijeBridget/SQL-MEDICAL-COST-EDA)
-
+---
 
 ## Let's Connect
 I’m always open to new ideas, feedback, or collaborations. Feel free to:
@@ -52,6 +54,7 @@ I’m always open to new ideas, feedback, or collaborations. Feel free to:
 
 **Medium:** [Medium](https://medium.com/@bridget.onyeije)
 
+---
 
 ### Thanks for stopping by, and I look forward to collaborating with you! 🚀
 
