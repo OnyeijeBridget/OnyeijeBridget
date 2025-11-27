@@ -28,13 +28,13 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
     
     [View Project](https://github.com/OnyeijeBridget/CMS-NursingHome-COVID-19-Dashboard)
 
- 2) ## Pharma Sales Analysis Using Power BI:
+ 2) ## HCAHPS Patient Survey Dashboard Using Power BI:
 
     - Created a Power BI dashboard to analyze pharmaceutical sales trends and performance metrics
     
     - Showcased insights into revenue, product categories, and regional sales performance
     
-   [View Project]
+   [View Project](https://github.com/OnyeijeBridget/HCAHPS-Patient-Survey-Dashboard-)
 
  3) ## Exploratory Data Analysis (EDA) of Medical Costs Using MySQL:
 
