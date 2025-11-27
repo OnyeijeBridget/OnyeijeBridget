@@ -22,17 +22,17 @@ My goal is to bridge the gap between clinical knowledge and data-driven insights
 
 1) ## CMS Nursing Home COVID-19 Analysis Using MS-Excel:
 
-    - Analyzed U.S. nursing home COVID-19 cases, deaths, and vaccination rates
+    - Analyzed U.S. nursing home COVID-19 cases, deaths, and vaccination rates.
     
-    - Built an interactive Excel dashboard using PivotTables, Power Query, and DAX
+    - Built an interactive Excel dashboard using PivotTables, Power Query, and DAX.
     
     [View Project](https://github.com/OnyeijeBridget/CMS-NursingHome-COVID-19-Dashboard)
 
  2) ## HCAHPS Patient Survey Dashboard Using Power BI:
 
-    - Created a Power BI dashboard to analyze pharmaceutical sales trends and performance metrics
+    - Analyzed nine (9) years (2013-2022) of HCAHPS data in Power BI to uncover trends in patient care on national and state levels.
     
-    - Showcased insights into revenue, product categories, and regional sales performance
+    - Showcased insights into the quality of care received by patients during their hospital stay.
     
    [View Project](https://github.com/OnyeijeBridget/HCAHPS-Patient-Survey-Dashboard-)
 
